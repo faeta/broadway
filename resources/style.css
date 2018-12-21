@@ -24,6 +24,10 @@ h2, h3{
 	color: gray;
 }
 
+a{
+	color: white;
+}
+
 .new-york{
 	background-image: url(the-flatiron-building.png);
 	color: white;
@@ -34,4 +38,9 @@ footer{
 	color: white;
 	background-color: dimgray;
 	text-align: left;
+}
+
+footer li{
+	display: inline;
+	font-size: 11px;
 }
